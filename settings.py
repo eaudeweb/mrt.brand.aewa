@@ -1,0 +1,2 @@
+PRODUCT_NAME = 'MRT'
+PRODUCT_TITLE = 'Meetings AEWA'
